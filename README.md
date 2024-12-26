@@ -18,5 +18,5 @@ Deployment: Dockerized services orchestrated with Kubernetes for high availabili
 API-gateway - https://github.com/PrashanthPremchand/EcommerceAPIGateway<br />
 Product-Service - https://github.com/PrashanthPremchand/ProductService<br />
 Order-Service - https://github.com/PrashanthPremchand/OrderService<br />
-Inventory-Service - <br />
-Notification-Service - <br />
+Inventory-Service - https://github.com/PrashanthPremchand/InventoryService<br />
+Notification-Service - https://github.com/PrashanthPremchand/NotificationService<br />
